@@ -77,9 +77,11 @@ const HeroSection = () => {
           </span>
         </h1> */}
         <p className="md:w-96 text-lg text-gray-300">
-          I&apos;m a full-stack developer passionate about building modern
-          dynamic and responsive web applications from front to back that users
-          love.
+          I&apos;m a full-stack developer with a bachelor&apos;s degree in Web
+          and Information Systems at New Jersey Institute of Technology.
+          I&apos;m passionate about building modern dynamic and responsive web
+          applications from front to back that meets user needs and business
+          objectives.
         </p>
 
         <Link
