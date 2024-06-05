@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: "Professional Responsive Design Website",
       tech: [SiNextdotjs, SiTailwindcss, SiFigma],
-      link: "https://vercel.com/protoges-projects/nextjs-responsive-design-tailwind",
+      link: "https://nextjs-responsive-design-tailwind.vercel.app/",
       cover: "/webimages/responsive.png",
       background: "bg-violet-900",
     },
@@ -142,7 +142,7 @@ const Projects = () => {
                 `p-1 rounded-md hover:bg-yellow-500 bg-transparent transition-colors duration-900 ease-in-out`
               )}
             >
-              <div className="bg-black bg-opacity-75 text-amber-50 p-3  rounded-md bg-transparent hover:bg-violet-900 transition-colors duration-900 ease-in-out ">
+              <div className="bg-black bg-opacity-75  text-amber-50 p-3  rounded-md bg-transparent hover:bg-violet-900 transition-colors duration-900 ease-in-out ">
                 <DirectionAwareHover
                   imageUrl={project.cover}
                   className="w-full space-y-5  cursor-pointer "
